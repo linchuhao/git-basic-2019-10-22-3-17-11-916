@@ -1,3 +1,7 @@
+What is the difference between these commends.
 what is add?
+add is means transfer updated files to working area.
 What is commit?
+commit is means transfer updated files to local cache.
 What is push?
+push is means transfer updated files to remote repository.
